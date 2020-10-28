@@ -43,7 +43,8 @@ INSTALLED_APPS = [
 
     # my apps
     'paintings',
-    'accounts'
+    'accounts',
+    'users'
     # 'auth'
 ]
 
